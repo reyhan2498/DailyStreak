@@ -32,9 +32,13 @@ DailyStreaks is a **habit-tracking app** designed to help users stay consistent 
    flutter run
    ```
 
-## 📸 Screenshots (Optional)
-Add screenshots here to showcase the UI. Example:
-![DailyStreaks Screenshot](assets/screenshots/homepage.png)
+## 📸 Screenshots of the app
+![Screenshot_20250310_210856](https://github.com/user-attachments/assets/cecb0b40-4550-4691-915e-926be47761d8)
+![Screenshot_20250310_211016](https://github.com/user-attachments/assets/c523bfaf-a157-4e2f-9aea-598775e96eff)
+![Screenshot_20250310_211021](https://github.com/user-attachments/assets/0bfef32a-a49a-4b75-94e6-a31c9379ac4e)
+![Screenshot_20250310_211036](https://github.com/user-attachments/assets/f592915f-8a8f-40a3-88b8-9cc0ab5ea11d)
+![Screenshot_20250310_211118](https://github.com/user-attachments/assets/0ae21dd8-6b5c-4ad3-866d-e377aa1b862e)
+
 
 ## 🛠️ Future Improvements
 🚀 Dark mode support  
