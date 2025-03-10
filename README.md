@@ -42,11 +42,6 @@ DailyStreaks is a **habit-tracking app** designed to help users stay consistent 
    <img src="https://github.com/user-attachments/assets/0ae21dd8-6b5c-4ad3-866d-e377aa1b862e" alt="Screenshot 5" width="300">
 </p>
 
-<p align="center">
- 
-</p>
-
-
 
 ## 🛠️ Future Improvements
 🚀 Dark mode support  
