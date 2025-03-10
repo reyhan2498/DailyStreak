@@ -35,17 +35,14 @@ DailyStreaks is a **habit-tracking app** designed to help users stay consistent 
 ## 📸 Screenshots of the app
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cecb0b40-4550-4691-915e-926be47761d8" alt="Screenshot 1" width="300">
-  <img src="https://github.com/user-attachments/assets/c523bfaf-a157-4e2f-9aea-598775e96eff" alt="Screenshot 2" width="300">
+  <img src="https://github.com/user-attachments/assets/cecb0b40-4550-4691-915e-926be47761d8" alt="Screenshot 1" width="200">
+  <img src="https://github.com/user-attachments/assets/c523bfaf-a157-4e2f-9aea-598775e96eff" alt="Screenshot 2" width="200">
+   <img src="https://github.com/user-attachments/assets/0bfef32a-a49a-4b75-94e6-a31c9379ac4e" alt="Screenshot 3" width="200">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0bfef32a-a49a-4b75-94e6-a31c9379ac4e" alt="Screenshot 3" width="300">
   <img src="https://github.com/user-attachments/assets/f592915f-8a8f-40a3-88b8-9cc0ab5ea11d" alt="Screenshot 4" width="300">
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0ae21dd8-6b5c-4ad3-866d-e377aa1b862e" alt="Screenshot 5" width="300">
+   <img src="https://github.com/user-attachments/assets/0ae21dd8-6b5c-4ad3-866d-e377aa1b862e" alt="Screenshot 5" width="300">
 </p>
 
 
